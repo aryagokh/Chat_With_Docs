@@ -1,0 +1,10 @@
+streamlit
+pypdf2
+langchain
+python-dotenv
+faiss-cpu
+huggingface_hub
+langchain_groq
+langchain_community
+langchain_huggingface
+python-docx
